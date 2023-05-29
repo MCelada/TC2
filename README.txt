@@ -17,3 +17,7 @@ https://nbviewer.org/github/MCelada/TC2/blob/main/Notebooks%20Jupyter/TS2.ipynb
 TS3:
 
 https://nbviewer.org/github/MCelada/TC2/blob/main/Notebooks%20Jupyter/TS3.ipynb
+
+TS4:
+
+https://nbviewer.org/github/MCelada/TC2/blob/main/Notebooks%20Jupyter/TS4.ipynb
