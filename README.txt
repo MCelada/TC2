@@ -21,3 +21,14 @@ https://nbviewer.org/github/MCelada/TC2/blob/main/Notebooks%20Jupyter/TS3.ipynb
 TS4:
 
 https://nbviewer.org/github/MCelada/TC2/blob/main/Notebooks%20Jupyter/TS4.ipynb
+
+
+TS5:
+
+
+TS6:
+
+
+TP Lab:
+
+https://nbviewer.org/github/MCelada/TC2/blob/main/Notebooks%20Jupyter/TPL1_PreInforme.ipynb
