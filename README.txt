@@ -25,9 +25,11 @@ https://nbviewer.org/github/MCelada/TC2/blob/main/Notebooks%20Jupyter/TS4.ipynb
 
 TS5:
 
+https://nbviewer.org/github/MCelada/TC2/blob/main/Notebooks%20Jupyter/TS5.ipynb
 
 TS6:
 
+https://nbviewer.org/github/MCelada/TC2/blob/main/Notebooks%20Jupyter/TS6.ipynb
 
 TP Lab:
 
